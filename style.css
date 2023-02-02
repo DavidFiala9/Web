@@ -1,0 +1,93 @@
+h1 {
+    font-size: 125px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 65px;
+    position: absolute;
+    right: 9.5rem;
+    top: 15rem;
+}
+
+button {
+    border: none;
+    color: greenyellow;
+    padding: 20px 44px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    cursor: pointer;
+    background-color: brown;
+    position: absolute;
+    top: 28rem;
+    right: 11.5rem;
+}
+
+button:hover {
+    background-color:aqua;
+    color: green;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+p1 {
+    position:absolute;
+    text-align: left;
+    width: 40rem;
+    right: 6rem;
+    top: 35rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: #7EDC1D;
+    padding: 15px 10px;
+}
+
+p2 {
+    position:absolute;
+    text-align: left;
+    width: 40rem;
+    right: 6rem;
+    top: 45.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: #7EDC1D;
+    padding: 15px 10px;
+}
+
+p3 {
+    position:absolute;
+    text-align: left;
+    width: 40rem;
+    right: 6rem;
+    top: 53rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: #7EDC1D;
+    padding: 20px 10px;
+}
+
+p4 {
+    position: absolute;
+    right: 10rem;
+    top: 63rem;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    position: absolute;
+    right: 15rem;
+    top: 10rem;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
